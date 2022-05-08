@@ -104,7 +104,7 @@ start.cmd
 
 ## Uso
 
-All'avvio del programma viene mostrata una schermata di login. In questa si può scegliere tra i 3 account quello di interesse. Tra le parentesi è scritto il ruolo che tale account ha.
+All'avvio del programma viene mostrata una schermata di login. In questa si può scegliere tra i 3 account quello di interesse. Tra le parentesi è scritto il ruolo che tale account ha e la relativa password.
 <p align="center">
   <img width="700" src="https://github.com/Accout-Personal/solidityproj/blob/master/img/login.jpg">
 </p>
@@ -117,7 +117,7 @@ I ruoli sono 3:
  
 
 
-Inoltre per rendere più sicuro il programma, abbiamo impostato delle "sessioni", ovvero dopo un certo periodo di tempo (11 minuti) che si è effettuato il login, l'indirizzo di portafolgio che si è scelto viene nuovamente bloccato.
+Inoltre per rendere più sicuro il programma, abbiamo impostato delle "sessioni", ovvero dopo un certo periodo di tempo (11 minuti) che si è effettuato il login, l'indirizzo di portafoglio che si è scelto viene nuovamente bloccato.
 
 Dopo aver selezionato l'account con cui procedere, le operazioni possibili saranno differenti.
 
